@@ -12,7 +12,7 @@ Este repositório contém o portfólio acadêmico desenvolvido durante o curso d
 - **Instituição:** Fatec Jacareí - Prof. Francisco Pazzelli de Carvalho
 - **Semestre Atual:** 4º Semestre (Foco em Desenvolvimento Mobile e Backend)
 
-## 🛠 Stack Técnica (Update: 3º Semestre)
+## 🛠 Stack Técnica (Update: 4º Semestre)
 Com base na evolução da matriz curricular de DSM, minhas competências incluem:
 
 *   **Frontend Avançado:** Desenvolvimento de SPAs (Single Page Applications) utilizando **JavaScript (ES6+)** e frameworks (como **React** ou **Angular**), focado em componentes e estado.
