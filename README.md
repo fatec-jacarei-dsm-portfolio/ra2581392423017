@@ -1,7 +1,7 @@
-# Portfólio de Projetos - Fatec Jacareí
-Aluno: Felipe Ribeiro de Lima
-Curso: Desenvolvimento de Software Multiplataforma
-Turma: 2º Semestre - 2024
+# Portfólio de Projetos - Fatec Jacareí <br>
+Aluno: Felipe Ribeiro de Lima <br>
+Curso: Desenvolvimento de Software Multiplataforma <br>
+Turma: 2º Semestre - 2024 <br>
  
-## Portfólio Online
-🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423017/) 🎤 [Pitch de Apresentação (vídeo)]()
+## Portfólio Online <br>
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423017/)  <br> 🎤 [Pitch de Apresentação (vídeo)]()
